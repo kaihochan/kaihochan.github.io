@@ -1,6 +1,6 @@
 {
   "node_modules/nuxt/dist/app/entry.mjs": {
-    "file": "entry-f45f35c6.mjs",
+    "file": "entry-e0f1e041.mjs",
     "src": "node_modules/nuxt/dist/app/entry.mjs",
     "isEntry": true,
     "dynamicImports": [
@@ -8,86 +8,84 @@
       "pages/index.vue",
       "pages/setAlert.vue",
       "pages/setting.vue",
-      "pages/test.vue",
       "middleware/login.js",
       "layouts/default.vue",
       "layouts/login.vue"
     ],
     "css": [
-      "entry.7b824359.css"
+      "entry.d975c1b8.css"
     ],
     "assets": [
       "etherscan.3afd8b36.ico",
       "kamon.0a1c9d3f.png",
-      "materialdesignicons-webfont.55c35c20.eot",
-      "materialdesignicons-webfont.12845dec.woff2",
-      "materialdesignicons-webfont.d87b64d8.woff",
-      "materialdesignicons-webfont.5e9b23f9.ttf"
+      "materialdesignicons-webfont.5be9e9d7.eot",
+      "materialdesignicons-webfont.633d596f.woff2",
+      "materialdesignicons-webfont.7f3afe9b.woff",
+      "materialdesignicons-webfont.948fce52.ttf"
     ]
   },
   "pages/home.vue": {
-    "file": "home-89426d74.mjs",
+    "file": "home-1db15186.mjs",
     "src": "pages/home.vue",
     "isDynamicEntry": true,
     "imports": [
       "node_modules/nuxt/dist/app/entry.mjs",
-      "_static-nft-56a5b15c.mjs"
+      "_cookie-3eb92dae.mjs"
     ]
   },
-  "_static-nft-56a5b15c.mjs": {
-    "file": "static-nft-56a5b15c.mjs"
+  "_cookie-3eb92dae.mjs": {
+    "file": "cookie-3eb92dae.mjs",
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
   },
   "pages/index.vue": {
-    "file": "index-8e5cca7f.mjs",
+    "file": "index-b448f21c.mjs",
     "src": "pages/index.vue",
     "isDynamicEntry": true,
     "imports": [
-      "node_modules/nuxt/dist/app/entry.mjs"
+      "node_modules/nuxt/dist/app/entry.mjs",
+      "_cookie-3eb92dae.mjs"
     ]
   },
   "pages/setAlert.vue": {
-    "file": "setAlert-e1b66ac1.mjs",
+    "file": "setAlert-57a9da3e.mjs",
     "src": "pages/setAlert.vue",
     "isDynamicEntry": true,
     "imports": [
-      "node_modules/nuxt/dist/app/entry.mjs"
+      "node_modules/nuxt/dist/app/entry.mjs",
+      "_cookie-3eb92dae.mjs"
     ]
   },
   "pages/setting.vue": {
-    "file": "setting-c815febe.mjs",
+    "file": "setting-8bebb2ac.mjs",
     "src": "pages/setting.vue",
     "isDynamicEntry": true,
     "imports": [
-      "node_modules/nuxt/dist/app/entry.mjs"
-    ]
-  },
-  "pages/test.vue": {
-    "file": "test-80d6a054.mjs",
-    "src": "pages/test.vue",
-    "isDynamicEntry": true,
-    "imports": [
       "node_modules/nuxt/dist/app/entry.mjs",
-      "_static-nft-56a5b15c.mjs"
+      "_cookie-3eb92dae.mjs"
     ]
   },
   "middleware/login.js": {
-    "file": "login-d171b79c.mjs",
+    "file": "login-4cbfaf71.mjs",
     "src": "middleware/login.js",
     "isDynamicEntry": true,
     "imports": [
-      "node_modules/nuxt/dist/app/entry.mjs"
+      "node_modules/nuxt/dist/app/entry.mjs",
+      "_cookie-3eb92dae.mjs"
     ]
   },
   "layouts/default.vue": {
-    "file": "default-44b5265c.mjs",
+    "file": "default-3f5ce320.mjs",
     "src": "layouts/default.vue",
     "isDynamicEntry": true,
     "imports": [
-      "node_modules/nuxt/dist/app/entry.mjs"
+      "node_modules/nuxt/dist/app/entry.mjs",
+      "_cookie-3eb92dae.mjs"
     ]
   },
   "layouts/login.vue": {
-    "file": "login-3ce3338e.mjs",
+    "file": "login-1ea8c7ad.mjs",
     "src": "layouts/login.vue",
     "isDynamicEntry": true,
     "imports": [

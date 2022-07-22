@@ -1,0 +1,1 @@
+import{y as o}from"./entry-e0f1e041.mjs";import{u as a}from"./cookie-3eb92dae.mjs";var i=o(async e=>{if(e.path!=="/"){if(a("auth").value==null)return console.log("Heading to",e.path,"but you haven't logged in"),"/"}else if(a("auth").value!==void 0)return"/home"});export{i as default};

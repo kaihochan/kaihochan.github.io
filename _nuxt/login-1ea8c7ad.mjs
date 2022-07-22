@@ -1,0 +1,1 @@
+import{_ as r,o as s,h as c,w as e,r as t,b as _,A as l}from"./entry-e0f1e041.mjs";const p={};function f(n,i){const a=t("v-main"),o=t("v-app");return s(),c(o,null,{default:e(()=>[_(a,{class:"mx-auto align-center justify-center text-center"},{default:e(()=>[l(n.$slots,"default")]),_:3})]),_:3})}var u=r(p,[["render",f]]);export{u as default};
